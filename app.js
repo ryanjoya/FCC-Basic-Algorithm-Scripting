@@ -1,6 +1,6 @@
 
-function reverseString(str) {
-  return str.split("").reverse().join("");
+function sumAll(arr) {
+  return 1;
 }
 
-reverseString("hello");
+sumAll([1, 4]);
