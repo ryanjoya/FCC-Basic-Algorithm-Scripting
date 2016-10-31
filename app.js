@@ -1,6 +1,9 @@
 
-function sumAll(arr) {
-  return 1;
+function palindrome(str) {
+  // Good luck!
+  return true;
 }
 
-sumAll([1, 4]);
+
+
+palindrome("eye");
